@@ -1,5 +1,5 @@
 # Starbucks-Discounted-Cash-Flow-Model-
-Developed a discounted cash flow (DCF) valuation model for Starbucks using public financial statements and SEC Form 10-K filings, incorporating revenue forecasts, free cash flow projections, WACC, terminal value, and sensitivity analysis.
+Developed a discounted cash flow (DCF) valuation model for Starbucks using public financial statements and SEC Form 10-K filings to create revenue forecasts, WACC, terminal value, and sensitivity analysis.
 
 Tools Used: Microsoft Excel 
 
